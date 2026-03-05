@@ -1,2 +1,2 @@
-# This-or-That-Canvas
-copy in your This or That code.
+# Bar-Chart-Canvas
+Need to insert short instructions here.
